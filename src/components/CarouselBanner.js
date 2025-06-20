@@ -8,14 +8,14 @@ const CarouselBanner = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="C:\Users\aravi\OneDrive\Desktop\Organic-Store\organic_store\src\components\Images\1.png"
+            src="https://thumbs.dreamstime.com/b/stalls-apples-price-tag-carousel-hypermarket-st-petersburg-russia-october-food-products-109699058.jpg"
             alt="First slide"
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./Images/2.png"
+            src="https://i.kinja-img.com/gawker-media/image/upload/ttz14wkmkdc8fgjkentk.jpg"
             alt="Second slide"
           />
         </Carousel.Item>
